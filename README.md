@@ -1,7 +1,7 @@
 
 # Hey, Devs 👋
 
-📌 Meu nome é Higor, iniciei minha carreira no mundo da programação como desenvolvedor Front-End 🤟 e  desde então o foco é a busca constante pelo aprendizado e especialização. 👨‍💻  
+📌 Meu nome é Higor, tenho 25 anos e sou Desenvolvedor Front-end  👨‍💻  
 
 <div>
   <a href="https://github.com/Himefe">
@@ -9,32 +9,37 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himefe&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-🧑🏻‍💻Formação Acadêmica 
+### Formação Acadêmica 
 
-- Sistemas de informação  
+- Sistemas de informação (Bacharelado)  
 
-🛠️ ### Ferramentas e Tecnologias que domino:
+### Tecnologias
 <div style="display: inline_block"><br>     
-  <img align="center" alt="Di-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Di-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Di-Drupal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
-  <img align="center" alt="Di-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Di-Tailwind" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original-wordmark.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="React Router" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-line-wordmark.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Tailwind" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="Material UI" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg">
+  <img align="center" alt="GraphQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/graphql/graphql-plain-wordmark.svg">
+  <img align="center" alt="Docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  <img align="center" alt="CodeIgniter" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
+  <img align="center" alt="JIRA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original-wordmark.svg">
 </div>
 
-### Tenho experiência e que estou aprendendo:
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Di-wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Di-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="di-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div> <br>
-Follow me: 👇
+Mande um email ou me siga no linkedin =) 👇
 
 <div><br> 
-  <a href="https://instagram.com/_diimedeiross" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dimedeiros15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-medeiros-66a504166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:higorfernandes21@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Himefe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
  ![Snake animation](https://github.com/Dimedeiros15/Dimedeiros15/blob/output/github-contribution-grid-snake.svg)
@@ -52,7 +57,7 @@ Follow me: 👇
 </p>
   
 <div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
+  <h3><b>Contador de visitas</b></h3>
 </div>
 
 <p align="center">
