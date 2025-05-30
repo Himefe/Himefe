@@ -20,11 +20,10 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="React Router" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-line-wordmark.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <img align="center" alt="Material UI" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg">
