@@ -11,7 +11,7 @@
 
 ### Formação Acadêmica 
 
-- Sistemas de informação (Bacharelado)  
+- Sistemas de informação (Bacharelado) | Universidade Veiga de Almeida
 
 ### Tecnologias
 <div>
