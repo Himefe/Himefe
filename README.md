@@ -13,9 +13,7 @@
 
 - Sistemas de informação  
 
-🛠️ ## Ferramentas e Tecnologias
-
-  ###  Que domino:
+🛠️ ### Ferramentas e Tecnologias que domino:
 <div style="display: inline_block"><br>     
   <img align="center" alt="Di-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +37,7 @@ Follow me: 👇
   <a href="https://www.linkedin.com/in/diego-medeiros-66a504166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
- ![Snake animation](https://github.com/DiMedeiros15/DiMedeiros15/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Dimedeiros15/Dimedeiros15/blob/output/github-contribution-grid-snake.svg)
  
 <p align="center">
   <a
@@ -48,7 +46,7 @@ Follow me: 👇
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=DiMedeiros15&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=Himefe&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -59,7 +57,7 @@ Follow me: 👇
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/DiMedeiros15/count.svg"
+    src="https://profile-counter.glitch.me/Himefe/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
