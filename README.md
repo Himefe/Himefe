@@ -33,7 +33,7 @@
   <img align="center" alt="PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
   <img align="center" alt="CodeIgniter" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
   <img align="center" alt="JIRA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original-wordmark.svg">
-</div>
+</div><br/>
 
 Mande um email ou me siga no linkedin =) 👇
 
